@@ -1,4 +1,5 @@
 # Created a voting smart contract for the Haven1 Provable Identity Framework
+[Link to mart contract code](https://github.com/jerrymusaga/voting-haven1/blob/main/contracts/proof-of-identity/examples/VotingPOI.sol)
 
 # Haven1 - Proof of Identity Hackathon
 
